@@ -1,0 +1,92 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\1life.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\AFont.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\BFont.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\CFont.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\CollisionTexture.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\dragon.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\eye1.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\iceberg.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\icepart.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\mbat2.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\oeil.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\side.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\side2.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\sky.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Ice Age.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Ice Age.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\irrKlang.NET4.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\MonoGame.Framework.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.XAudio2.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.DXGI.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.Direct3D11.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.Direct2D1.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.XInput.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.RawInput.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.Direct3D9.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\MonoGame.Framework.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.XAudio2.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.DXGI.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.Direct3D11.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.Direct2D1.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.XInput.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.RawInput.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\SharpDX.Direct3D9.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\obj\x64\Debug\Ice Age.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\obj\x64\Debug\Ice Age.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\obj\x64\Debug\Ice Age.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\misc010.wav
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\sms.wav
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\pterodactyl.wav
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\flapping.wav
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\iceMove.wav
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\click.wav
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\x64\Debug\Content\bat1.wav
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\1life.xnb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\AFont.xnb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\BFont.xnb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\CFont.xnb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\CollisionTexture.xnb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\dragon.xnb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\eye1.xnb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\iceberg.xnb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\icepart.xnb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\mbat2.xnb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\oeil.xnb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\side.xnb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\side2.xnb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\sky.xnb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\bat1.wav
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\click.wav
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\flapping.wav
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\iceMove.wav
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\misc010.wav
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\pterodactyl.wav
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Content\sms.wav
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Ice Age.exe
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\Ice Age.pdb
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\MonoGame.Framework.dll
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.MediaFoundation.dll
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.dll
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.XAudio2.dll
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.DXGI.dll
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.Direct3D11.dll
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.Direct2D1.dll
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.XInput.dll
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.Direct3D9.dll
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\MonoGame.Framework.xml
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.MediaFoundation.xml
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.xml
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.XAudio2.xml
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.DXGI.xml
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.Direct3D11.xml
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.Direct2D1.xml
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.XInput.xml
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\bin\x64\Debug\SharpDX.Direct3D9.xml
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\obj\x64\Debug\Ice Age.csprojResolveAssemblyReference.cache
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\obj\x64\Debug\Ice Age.csproj.CoreCompileInputs.cache
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\obj\x64\Debug\Ice Age.exe
+E:\lektions\Semestr2\Framework\FrameWorkProject\Ice Age\Ice Age\obj\x64\Debug\Ice Age.pdb

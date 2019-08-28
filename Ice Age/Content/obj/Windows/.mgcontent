@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/CollisionTexture.png</File>
+    <File>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/sky.png</File>
+    <File>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/side.png</File>
+    <File>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/iceberg.png</File>
+    <File>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/icepart.png</File>
+    <File>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/oeil.png</File>
+    <File>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/AFont.spritefont</File>
+    <File>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/dragon.png</File>
+    <File>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/mbat2.png</File>
+    <File>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/side2.png</File>
+    <File>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/eye1.png</File>
+    <File>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/1life.png</File>
+    <File>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/BFont.spritefont</File>
+    <File>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/CFont.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

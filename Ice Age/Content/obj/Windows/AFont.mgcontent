@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/AFont.spritefont</SourceFile>
+  <SourceTime>2017-03-01T10:44:15.403185+01:00</SourceTime>
+  <DestFile>E:/lektions/Semestr2/Framework/FrameWorkProject/Ice Age/Ice Age/Content/bin/Windows/AFont.xnb</DestFile>
+  <DestTime>2018-03-03T19:29:24.3040744+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

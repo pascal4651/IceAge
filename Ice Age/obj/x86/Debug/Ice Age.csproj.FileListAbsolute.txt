@@ -1,0 +1,67 @@
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Ice Age.exe
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Ice Age.pdb
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\obj\x86\Debug\Ice Age.csprojResolveAssemblyReference.cache
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\obj\x86\Debug\Ice Age.exe
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\obj\x86\Debug\Ice Age.pdb
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\CollisionTexture.xnb
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\HeroSheet.xnb
+c:\users\pascal\documents\visual studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\SlimeSheet.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\obj\x86\Debug\Ice Age.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\obj\x86\Debug\Ice Age.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\CollisionTexture.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Ice Age.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Ice Age.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\obj\x86\Debug\Ice Age.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\sky.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\side.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\iceberg.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\icepart.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\oeil.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\AFont.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\dragon.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\mbat2.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\side2.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\eye1.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\1life.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\BFont.xnb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Ice Age\Ice Age\bin\Windows\x86\Debug\Content\CFont.xnb
